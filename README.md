@@ -1,5 +1,9 @@
 # Text-Editor
 
+## Deployed Link
+
+[Heroku Deployment](https://immense-river-47744.herokuapp.com/)
+
 ## Table of Contents
 
 - [Description](#description)
@@ -37,10 +41,6 @@ After installing npm packages, the application will be invoked by using the foll
 ```
 npm start:dev
 ```
-
-#### Walkthrough Video
-
-
 
 ## License
 
